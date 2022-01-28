@@ -15,7 +15,6 @@ import com.gcu.model.SearchUsersModel;
 import com.gcu.model.UserModel;
 
 @Controller
-@RequestMapping("/login")
 public class LoginController {
 	
 	
